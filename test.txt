@@ -1,2 +1,7 @@
 this is a test
+<<<<<<< HEAD
 this is a modif de Wang Dawei
+=======
+this is a modif de huifang
+encore moi
+>>>>>>> refs/remotes/origin/nage
